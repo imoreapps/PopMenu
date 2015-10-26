@@ -16,6 +16,6 @@ A handy popover menu class for iPhone and iPad.
  - ARC support.
  - Menu item supports icon, title elements.
  - Menu item action block support.
-
+ 
 ###DEMO Screeshots
 ![Demo Overview](https://github.com/iMoreApps/PopMenu/blob/master/Screenshots/1.png)
