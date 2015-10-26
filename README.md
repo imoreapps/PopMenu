@@ -18,4 +18,4 @@ A handy popover menu class for iPhone and iPad.
  - Menu item action block support.
 
 ###DEMO Screeshots
-![Demo Overview](https://github.com/iMoreApps/PopMenu/blob/master/Sceenshots/1.png)
+![Demo Overview](https://github.com/iMoreApps/PopMenu/blob/master/Screenshots/1.png)
